@@ -18,13 +18,13 @@
   </script>
   
   <style scoped>
-  .sidebar {
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
-    width: 25%; /* Adjust the width as needed */
-    float: left; /* Float the Sidebar to the left */
-  }
+.sidebar {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  width: 20%; /* Adjust the width as needed */
+  margin-right: 20px; /* Add space between Sidebar and LoginForm */
+}
   </style>
   

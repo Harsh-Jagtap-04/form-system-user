@@ -17,13 +17,12 @@
   </script>
   
   <style scoped>
-  .tabs {
+.tabs {
   background-color: #fff;
   padding: 20px;
   border-radius: 5px;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
-  width: 25%; /* Adjust the width as needed */
-  float: right; /* Float the Tabs to the right */
+  width: 20%; /* Adjust the width as needed */
 }
   
   .tab-buttons {
